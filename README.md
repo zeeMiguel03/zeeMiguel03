@@ -39,11 +39,6 @@ Personal project focused on building a modern media catalogue and streaming expe
 
 **Focus:** .NET · REST APIs · SQL Server · authentication · scalable catalogue design
 
-## Professional Experience
-
-During my curricular internship, I worked on the development of a **commercial CRM web application**, contributing across both backend and frontend development.
-
-The project included areas such as user and permission management, leads, deals, sales pipelines, documents, calendar integration, notifications and reporting.
 
 **Technologies:** C# · .NET · ASP.NET Core · Entity Framework Core · Angular · TypeScript · MySQL · JWT · OAuth 2.0
 
