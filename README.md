@@ -1,6 +1,6 @@
 # José Rocha
 
-### Software Developer | C# · .NET · Angular
+### Software Developer 
 
 Computer Engineering graduate focused on **backend and full-stack development**, with practical experience building web applications in a professional environment.
 
