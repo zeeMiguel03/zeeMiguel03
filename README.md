@@ -34,16 +34,6 @@ I work mainly with **C#, .NET, ASP.NET Core, Entity Framework Core, Angular, Typ
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-## What I Work With
-
-- Backend development with **C# / ASP.NET Core**
-- REST API design and integration
-- **Entity Framework Core** and relational databases
-- Authentication and authorization with **JWT** and **OAuth 2.0**
-- Frontend development with **Angular and TypeScript**
-- Clean, layered application architectures
-- Git-based development workflows
-
 ## Current Projects
 
 ### WorkTracker
